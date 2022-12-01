@@ -7,6 +7,7 @@
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Features](#features)
 
 ## General Info
 ### This project is a practice for skill up in Web Developing.
