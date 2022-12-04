@@ -44,12 +44,12 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 
 2. Activate Virtual env
 
-      linux & mac : source .venv/bin/activate
-      windows: .\venv\Scripts\activate.bat
+        linux & mac : source .venv/bin/activate
+        windows: .\venv\Scripts\activate.bat
 
 3. install all Packages for Project 
 
-      pip install -r requirement.txt
+        pip install -r requirement.txt
 
 
 
