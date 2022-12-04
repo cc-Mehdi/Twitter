@@ -38,16 +38,16 @@ Project is created with :
 $ git clone https://github.com/cc-Mehdi/Twitter.git
 
 ```
-1.
+1. Create an Virtual env For project 
 
        python or python3 -m venv venv
 
-2.
+2. Activate Virtual env
 
       linux & mac : source .venv/bin/activate
       windows: .\venv\Scripts\activate.bat
 
-3.
+3. install all Packages for Project 
 
       pip install -r requirement.txt
 
