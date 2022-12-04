@@ -56,7 +56,7 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 
         pip install -r requirement.txt
 
-
+---
 
 ## Features
 * Full responsive in all pages
