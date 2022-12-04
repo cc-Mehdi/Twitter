@@ -39,16 +39,17 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 
 ```
 1.
-      python or python3 -m venv venv
 
+       python or python3 -m venv venv
 
 2.
+
       linux & mac : source .venv/bin/activate
       windows: .\venv\Scripts\activate.bat
 
+3.
 
-3. 
-    pip install -r requirement.txt
+      pip install -r requirement.txt
 
 
 
