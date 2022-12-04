@@ -66,5 +66,5 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 
 > Ali Sharify (Flask) : 
 > [Alisharifyofficial@gmail.com](Alisharifyofficial@gmail.com) &nbsp;&middot;&nbsp;
-> GitHub [@alisharify7](https://github.com/Github) &nbsp;&middot;&nbsp;
-> Twitter [@alisharify7](https://twitter.com/Twitter)
+> GitHub [@alisharify7](https://github.com/alisharify7) &nbsp;&middot;&nbsp;
+> Twitter [@alisharify7](https://twitter.com/alisharify7)
