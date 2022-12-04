@@ -15,7 +15,6 @@
 ### The backend technologies on this project is C#(ASP DOTNET CORE 6) and Python(flask v2.2 -2022-).
 
 ## Technologies
-Project is created with :
 * HTML5
 * CSS3
 * SASS
