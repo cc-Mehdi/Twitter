@@ -1,5 +1,5 @@
 # Twitter - Twitter.com
-## a Implementation of Twitter.com for practice and also Fun :) !  
+## - Implementation of Twitter.com for practice and also Fun :) !  
 
 ### We will create Twitter frontend with (HTML5 - CSS3 - SASS - JavaScript - Bootstrap v5.2) and also with two backend technologies.
 ![Home Page](./Images/HomePage.jpg)
