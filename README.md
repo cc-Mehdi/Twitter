@@ -21,7 +21,7 @@ Project is created with :
 * JavaScript
 * Bootstrap v5.2
 * C# (ASP)
-* Python (Django)
+* Python (Flask)
 
 ## Setup
 #### C#
@@ -36,7 +36,21 @@ Project is created with :
 #### Python
 ```
 $ git clone https://github.com/cc-Mehdi/Twitter.git
+
 ```
+1.
+      python or python3 -m venv venv
+
+
+2.
+      linux & mac : source .venv/bin/activate
+      windows: .\venv\Scripts\activate.bat
+
+
+3. 
+    pip install -r requirement.txt
+
+
 
 ## Features
 * Full responsive in all pages
@@ -49,7 +63,7 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 > GitHub [@cc-Mehdi](https://github.com/cc-Mehdi) &nbsp;&middot;&nbsp;
 > Twitter [@cc_MehdiGh](https://twitter.com/cc_mehdigh)
 
-> Ali Sharify (Django) : 
+> Ali Sharify (Flask) : 
 > [Alisharifyofficial@gmail.com](Alisharifyofficial@gmail.com) &nbsp;&middot;&nbsp;
 > GitHub [@alisharify7](https://github.com/Github) &nbsp;&middot;&nbsp;
 > Twitter [@alisharify7](https://twitter.com/Twitter)
