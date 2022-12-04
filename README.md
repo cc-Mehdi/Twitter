@@ -12,7 +12,7 @@
 
 ## General Info
 ### This project is a practice for skill up in Web Developing.
-### The backend technologies on this project is C#(ASP DOTNET CORE 6) and Python(flask v2.2 -2022-).
+### The backend technologies on this project is C#(ASP DOTNET CORE 6) and Python(Flask v2.2 -2022-).
 
 ## Technologies
 * HTML5
