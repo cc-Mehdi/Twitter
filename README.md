@@ -50,6 +50,6 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 > Twitter [@cc_MehdiGh](https://twitter.com/cc_mehdigh)
 
 > Ali Sharify (Django) : 
-> [alisharifyofficial@gmail.com](Email) &nbsp;&middot;&nbsp;
-> GitHub [https://github.com/alisharify7](https://github.com/Github) &nbsp;&middot;&nbsp;
-> Twitter [twitter.com/alisharify7](https://twitter.com/Twitter)
+> [Alisharifyofficial@gmail.com](Alisharifyofficial@gmail.com) &nbsp;&middot;&nbsp;
+> GitHub [@alisharify7](https://github.com/Github) &nbsp;&middot;&nbsp;
+> Twitter [@alisharify7](https://twitter.com/Twitter)
