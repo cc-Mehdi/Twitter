@@ -27,7 +27,7 @@
 
 ---
 
-#### C#
+### C#
 1. To run this project, just download or clone this folder (Twitter folder) on your pc.
 2. Open Command Line (CMD) and go to Twitter.Web Folder and write this command : 
   ``` - dotnet run --project Twitter.Web.csproj ```
@@ -38,7 +38,8 @@
 
 ---
 
-#### Python
+### Python
+#### open Your terminal in project path and run below commands
 ```
 $ git clone https://github.com/cc-Mehdi/Twitter.git
 
