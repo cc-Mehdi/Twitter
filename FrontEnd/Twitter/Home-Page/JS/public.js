@@ -1,1 +1,0 @@
-// in this file we keep store all scripts that is same with other pages
