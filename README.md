@@ -56,6 +56,11 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 
         pip install -r requirement.txt
 
+4. Run  
+
+        python app.py
+        flask run
+
 ---
 
 ## Features
