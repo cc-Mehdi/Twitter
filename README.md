@@ -24,6 +24,9 @@ Project is created with :
 * Python (Flask)
 
 ## Setup
+
+---
+
 #### C#
 1. To run this project, just download or clone this folder (Twitter folder) on your pc.
 2. Open Command Line (CMD) and go to Twitter.Web Folder and write this command : 
@@ -32,6 +35,8 @@ Project is created with :
 4. Done. Enjoy that !!!
 
 ----- NOTE : If your browser don't trust to site , don't worry , this is because you run project on your localhost. Juct click "Advanced" button and click "Open site" link.  -----
+
+---
 
 #### Python
 ```
