@@ -69,12 +69,12 @@ $ git clone https://github.com/cc-Mehdi/Twitter.git
 * With two backend technologies
 
 ---
-> Mehdi Gholami (ASP) : 
-> [cc.MehdiGholami@gmail.com](cc.MehdiGholami@gmail.com) &nbsp;&middot;&nbsp;
+### Mehdi Gholami (ASP) : 
+> Gmail [cc.MehdiGholami@gmail.com](cc.MehdiGholami@gmail.com) &nbsp;&middot;&nbsp;
 > GitHub [@cc-Mehdi](https://github.com/cc-Mehdi) &nbsp;&middot;&nbsp;
 > Twitter [@cc_MehdiGh](https://twitter.com/cc_mehdigh)
 
-> Ali Sharify (Flask) : 
-> [Alisharifyofficial@gmail.com](Alisharifyofficial@gmail.com) &nbsp;&middot;&nbsp;
+### Ali Sharify (Flask) : 
+> Gmail [Alisharifyofficial@gmail.com](Alisharifyofficial@gmail.com) &nbsp;&middot;&nbsp;
 > GitHub [@alisharify7](https://github.com/alisharify7) &nbsp;&middot;&nbsp;
 > Twitter [@alisharify7](https://twitter.com/alisharify7)
